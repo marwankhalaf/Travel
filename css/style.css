@@ -13,6 +13,8 @@
   transition: .2s linear;
 }
 
+/* start layout */
+
 html {
   font-size: 62.5%;
   overflow-x: hidden;
